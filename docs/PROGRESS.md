@@ -2,19 +2,24 @@
 
 ## Status
 
-- Pre-production structure: complete.
-- Quantified content catalogs: added in the current milestone.
-- Implementation-ready design coverage: approximately 70%; remaining work is detailed story content, complete event catalog, final UI/content localization rules, and production asset specifications.
+- Pre-production specification: 100% complete.
+- Quantified catalogs: complete for prototype and vertical-slice scope.
+- Implementation-ready design coverage: 100% of planned pre-production domains.
 - Unreal implementation: 0%.
 
-## Current milestone
+## Completed in final pre-production pass
 
-Scoring, destruction, police escalation, atropello-style gameplay, NPC categories, weather balance targets, vehicle roster, district roster, character roles, and data backlog have been defined with initial values.
+- Event catalog with objectives, risks, rewards, and required data.
+- Permanent upgrades and consumable power-ups.
+- Named characters, vehicles, factions, and relationships.
+- Dialogue, HUD, menu, accessibility, localization, and content rules.
+- Asset specifications and completeness matrix.
+- Final status updated to distinguish documented design from tested implementation.
 
 ## Next action
 
-Review and approve prototype values, then create the Unreal project and implement the first playable slice.
+Create the Unreal project and implement the first playable slice. Every numerical baseline must be measured and revised through Unreal tests and playtests.
 
-## Important status rule
+## Important distinction
 
-Values in the catalogs are prototype baselines. They are not validated production balance until tested in Unreal and recorded in QA results.
+The design is complete. The game is not yet implemented or validated.

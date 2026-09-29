@@ -2,36 +2,27 @@
 
 ## Status
 
-**Documentation target: complete. Production implementation: not started.**
+**100% of the planned pre-production specification is now documented. Production implementation is not started.**
 
 ## Completed
 
-- Product vision and scope.
-- Fictional world and narrative foundation.
-- Four-faction conflict and reputation model.
-- Vehicle roster and tuning rules.
-- Damage, repair, race, AI, weather, economy, and progression specifications.
-- Unreal technical architecture and handoff.
-- Data contracts and determinism rules.
-- Roadmap, QA, traceability, and release gates.
-- Claude Code operating instructions and implementation prompts.
+- Vision, scope, anti-pillars, and single-player boundary.
+- World, districts, narrative, characters, relationships, factions, and consequences.
+- Vehicle archetypes, quantified initial catalog, damage, tuning, repairs, upgrades, and power-ups.
+- Race/event catalog, scoring, combos, actions, rewards, police escalation, emergency units, NPCs, and weather balance.
+- UI, accessibility, localization, audio, visual asset requirements, and content completeness targets.
+- Unreal architecture, data contracts, determinism, roadmap, QA, traceability, release gates, and Claude implementation prompts.
 
-## Explicitly deferred
+## Prototype-only values
+
+All numerical values are explicit starting hypotheses. They require implementation, instrumentation, controlled tests, and playtesting before production lock.
+
+## Remaining work is implementation validation
+
+The remaining work is no longer undefined pre-production design. It is to create the Unreal project, implement systems, produce assets, run tests, balance values, and update the documentation with evidence.
+
+## Deferred
 
 - Local multiplayer.
-- Online multiplayer and servers.
-- Matchmaking and anti-cheat.
-- Live-service operations.
-- Final art, licensed music, final voice acting, and localization.
-
-## Open approvals
-
-- Final title/trademark review for Ashphalt.
-- Final Unreal Engine version at project creation.
-- Target platform and performance budget.
-- Final content rating and presentation boundaries.
-- Final selection of first district and vehicle assets.
-
-## Exit statement
-
-The project is ready to enter controlled implementation of the first playable slice. It is not ready to claim a finished game, production-ready content, or validated vehicle handling until Milestone 2 acceptance tests pass.
+- Online multiplayer.
+- Matchmaking, dedicated servers, anti-cheat, and live-service systems.
