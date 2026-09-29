@@ -1,25 +1,7 @@
 # Gameplay systems
 
-## Core loop
+See `SCORING_AND_COMBOS.md`, `ACTIONS_AND_REWARDS.md`, and `GAMEPLAY_BALANCE_BASELINE.md` for quantified scoring and balance targets.
 
-Choose event → prepare vehicle → drive and make tactical choices → earn rewards and consequences → repair/tune → choose the next risk.
+The core loop is: choose event → prepare vehicle → drive, race, destroy, evade, protect, or exploit → earn score/time/credits/parts/reputation → repair/tune → face visible consequences.
 
-## Driving
-
-Use Chaos Vehicles for physical movement but tune the experience as arcade handling. Steering, braking, weight transfer, impacts, and recovery must remain readable at speed.
-
-## Damage
-
-Track chassis, engine, wheels/suspension, bodywork, and attachments independently. Use collision impulse bands, material modifiers, and cooldowns to prevent one frame from applying catastrophic repeated damage.
-
-## Repair
-
-Repair is a short physicalized sequence. Player and AI call the same service interface. A workshop can repair fully, partially, or strategically depending on money, time, faction access, and available parts.
-
-## Power-ups
-
-Power-ups should create tactical windows: temporary grip, emergency repair, impact amplification, decoy, traffic disruption, pursuit interference, or route reveal. Avoid permanent balance-breaking effects.
-
-## Failure
-
-Failure should create a setback rather than erase a campaign: repair debt, lost reward, reputation impact, rival advantage, or altered route availability. Hard failure is reserved for authored story situations.
+Scoring includes driving skill, civilian traffic interaction, rival destruction, Authority patrol/interceptor/heavy/elite destruction, stylized pedestrian-contact or non-contact alternatives, shortcuts, emergency interaction, and event objectives. Police targets produce high rewards but raise heat and faction consequences.

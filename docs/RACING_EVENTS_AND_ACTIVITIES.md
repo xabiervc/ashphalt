@@ -1,28 +1,5 @@
 # Racing events and activities
 
-## Event families
+See `ACTIONS_AND_REWARDS.md` and `SCORING_AND_COMBOS.md` for quantified event rewards and destruction scoring.
 
-- Circuit race: finish first while exploiting shortcuts and destruction.
-- Wreck run: reach a destruction target before time expires.
-- Rival hunt: disable a named rival vehicle.
-- Escape: survive pursuit and reach a safehouse.
-- Convoy: protect or attack vehicles across a route.
-- Delivery: transport a vehicle, part, or person with condition constraints.
-- Workshop trial: test a tuning setup under timed conditions.
-- Faction contract: complete a faction-specific objective with reputation stakes.
-
-## Event template
-
-Every event defines ID, district, start conditions, route, participants, objective, fail conditions, weather seed, rival configurations, rewards, reputation effects, unlocks, and aftermath state.
-
-## Escalation
-
-Early events teach one system at a time. Mid-game events combine traffic, damage, weather, faction response, and route changes. Late events deliberately combine multiple threats but must communicate priorities clearly.
-
-## Anti-tedium rules
-
-- Keep repair interactions short.
-- Avoid repeated identical races without a new modifier.
-- Use optional objectives rather than mandatory grinding.
-- Let players replay events for mastery, not only progression.
-- Always show reward, risk, and faction impact before launch.
+Events include circuit races, wreck runs, rival hunts, escapes, convoy protection/attack, deliveries, workshop trials, and faction contracts. Each event must define participants, route, objectives, score categories, heat policy, weather seed, reward budget, reputation effects, and aftermath.

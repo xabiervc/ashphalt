@@ -2,28 +2,19 @@
 
 ## Status
 
-- Pre-production documentation: complete.
-- Phase 0 project setup: pending.
-- First playable slice: pending.
-- Current implementation percentage: 0%.
+- Pre-production structure: complete.
+- Quantified content catalogs: added in the current milestone.
+- Implementation-ready design coverage: approximately 70%; remaining work is detailed story content, complete event catalog, final UI/content localization rules, and production asset specifications.
+- Unreal implementation: 0%.
 
-## Completed
+## Current milestone
 
-- Product documentation package uploaded.
-- Design, technical, QA, traceability, and release documents created.
-- Single-player scope confirmed.
-- Multiplayer deferred.
+Scoring, destruction, police escalation, atropello-style gameplay, NPC categories, weather balance targets, vehicle roster, district roster, character roles, and data backlog have been defined with initial values.
 
 ## Next action
 
-Create and validate the Unreal Engine project according to `docs/PHASE_0_PROJECT_SETUP.md`.
+Review and approve prototype values, then create the Unreal project and implement the first playable slice.
 
-## Decision log
+## Important status rule
 
-No implementation decisions have been recorded yet.
-
-## Known blockers
-
-- Unreal project has not yet been created.
-- Target platform and exact performance budget still require confirmation.
-- Final title/trademark review remains pending before public release.
+Values in the catalogs are prototype baselines. They are not validated production balance until tested in Unreal and recorded in QA results.
