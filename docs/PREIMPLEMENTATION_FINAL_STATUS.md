@@ -2,12 +2,16 @@
 
 ## Status
 
-**100% of planned pre-production specification is documented, including an award-caliber quality framework. Production implementation and quality validation are not started.**
+**100% of planned documentation domains are now covered. Production implementation and validation are not started.**
 
-## Added quality standard
+## Coverage
 
-The project now has measurable gates for concept clarity, vehicle feel, first playable, vertical slice, alpha, beta, and release candidate. It also has explicit playtesting, accessibility, narrative-quality, technical-budget, UX, presentation, and risk documents.
+Gameplay, driving, world, campaign, narrative, characters, factions, vehicles, damage, repair, tuning, races, scoring, progression, economy, AI, NPCs, Authority, emergencies, weather, open-world streaming, audio, music, voice/radio, VFX, animation, cinematics, UI, accessibility, localization, asset pipeline, determinism, save/load, replay, QA, performance, release, and decision governance are documented.
 
 ## Important distinction
 
-Documentation can define the standard but cannot prove it. The project must still create the Unreal build, pass the gates, gather player evidence, and revise systems based on measured results.
+Coverage is not evidence. The project must still resolve production decisions, create the Unreal project, implement Track A, run Q1, and replace assumptions with measured results.
+
+## Current blockers
+
+Unreal implementation, target hardware, final platform budgets, audio/voice production decisions, title clearance, content-rating review, and all playtest evidence remain pending.

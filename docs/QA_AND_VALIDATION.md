@@ -1,9 +1,5 @@
 # QA and validation
 
-## Core gameplay validation
+QA covers gameplay, narrative, open-world streaming, audio, music, voice/radio, VFX, animation, cinematics, accessibility, localization, assets, save/load, replay, performance, and builds. Each domain requires a reproducible scenario, acceptance criteria, evidence, and regression coverage.
 
-Run the three prototype tracks in sequence. Record control metrics, route/failure comprehension, progression decisions, voluntary replay, accessibility behavior, performance, and known defects.
-
-## Required evidence
-
-No Q1/Q2 pass is valid from developer intuition alone. Include test build ID, hardware, participant profile, scenario seed, observed metrics, failure taxonomy, player comments, and decision taken.
+No domain is considered complete merely because documentation exists; implementation evidence is required for validation status.

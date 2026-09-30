@@ -1,42 +1,41 @@
 # Pre-implementation checklist
 
-## Product
+## Product and design
 
-- [x] Vision and anti-pillars defined.
-- [x] Single-player scope defined.
-- [x] Multiplayer explicitly deferred.
-- [x] Fictional setting and vehicle policy defined.
+- [x] Vision, genre, player fantasy, loop, anti-pillars.
+- [x] World, campaign, cities, exploration, events, rivals, factions.
+- [x] Vehicles, driving, damage, tuning, repair, scoring, progression.
+- [x] Weather, NPCs, Authority, emergency response.
 
-## Design
+## Presentation and content
 
-- [x] World and districts.
-- [x] Narrative and endings.
-- [x] Factions and consequences.
-- [x] Vehicles and tuning.
-- [x] Races and activities.
-- [x] AI and weather.
-- [x] Economy and progression.
+- [x] Art direction and mood.
+- [x] Audio/music specification.
+- [x] VFX specification.
+- [x] Animation specification.
+- [x] Cinematics/presentation specification.
+- [x] Voice/radio specification.
+- [x] UI/UX/accessibility/localization rules.
+- [x] Asset pipeline and metadata.
 
-## Technical
+## Technical and quality
 
-- [x] Unreal architecture.
-- [x] Data contracts.
-- [x] Determinism specification.
-- [x] Save/replay scope.
-- [x] Profiling plan.
-- [x] Implementation handoff.
+- [x] Unreal architecture and handoff.
+- [x] Data contracts and determinism.
+- [x] Streaming, density, metrics, prototypes.
+- [x] QA, playtesting, traceability, quality gates.
 
-## Quality
+## Open production decisions
 
-- [x] QA strategy required.
-- [x] Traceability required.
-- [x] Release gates defined.
-- [x] Final status document required.
+- [ ] Unreal version and target hardware.
+- [ ] Platform/frame-rate/resolution budgets.
+- [ ] Trademark clearance.
+- [ ] Rating and final content boundaries.
+- [ ] Music and voice production budget.
 
-## Remaining before production
+## Validation
 
-- [ ] Approve final product decisions.
-- [ ] Create Unreal project.
-- [ ] Implement first playable slice.
-- [ ] Validate vehicle feel with playtests.
-- [ ] Perform professional legal review before public release.
+- [ ] Track A control prototype.
+- [ ] Q1 handling gate.
+- [ ] Q2 first playable.
+- [ ] Q3 vertical slice.

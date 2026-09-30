@@ -1,21 +1,5 @@
 # Audio and music direction
 
-## Identity
+See `AUDIO_PREPRODUCTION_SPECIFICATION.md`, `VOICE_AND_RADIO_SPECIFICATION.md`, and `MIXING_AND_AUDIO_ACCESSIBILITY.md` for production-level catalogs, contracts, mix priorities, accessibility, and acceptance tests.
 
-Audio should combine damaged industrial infrastructure, aggressive vehicle machinery, distant emergency signals, radio fragments, and high-energy race music. The contrast between oppressive environments and exuberant competition is intentional.
-
-## Interactive layers
-
-- Engine and drivetrain respond to load, damage, weather, and upgrades.
-- Collision audio communicates material, severity, and component damage.
-- Police escalation has recognizable warning layers.
-- City state changes alter ambience, emergency density, and music intensity.
-- Chaos Rating uses readable stingers without becoming exhausting.
-
-## Music structure
-
-Each city has an ambient motif and race intensity layers. Faction themes should be identifiable without making the soundtrack repetitive. Use original or properly licensed music only.
-
-## Acceptance
-
-Players can identify major threat, damage, objective completion, and city-state escalation with audio disabled and with visuals disabled where feasible through redundant cues.
+Ashphalt audio combines damaged industrial infrastructure, aggressive vehicle machinery, emergency signals, radio fragments, faction identity, and adaptive race music. Music and sound must improve driving feel, threat recognition, city identity, and consequence clarity.

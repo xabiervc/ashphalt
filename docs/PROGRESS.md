@@ -2,20 +2,16 @@
 
 ## Status
 
-- Broad pre-production: complete.
-- Measurable core gameplay pre-production: added.
-- Three prototype tracks: defined.
-- Core gameplay implementation: 0%.
+- Pre-production domain coverage: 100% documented.
+- Audio/music/voice/VFX/animation/cinematics/asset pipeline: added to audit and specification.
+- Open production decisions: recorded with owners still required.
 - Unreal implementation: 0%.
+- Validation evidence: 0%.
 
 ## Current milestone
 
-The repository now defines the player fantasy, exact genre, core loop, control model, metrics, race flow, camera, collision feel, progression decisions, differentiation, anti-repetition rules, prototype tracks, and traceability.
+Documentation coverage is complete. The next work is production decision closure and Track A implementation.
 
-## Next action
+## Honest quality statement
 
-Create the Unreal project and build Track A — the control prototype. Do not implement the complete open world before the vehicle passes Q1.
-
-## Honest quality status
-
-The design is more implementation-ready, but no metric or award-caliber claim is validated until a playable build produces evidence.
+The repository is now comprehensively specified, but no claim about final quality, fun, balance, performance, or awards is valid until Unreal builds and playtests produce evidence.
