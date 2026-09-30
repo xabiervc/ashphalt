@@ -2,16 +2,14 @@
 
 ## Status
 
-- Pre-production domain coverage: 100% documented.
-- Audio/music/voice/VFX/animation/cinematics/asset pipeline: added to audit and specification.
-- Open production decisions: recorded with owners still required.
+- Planned pre-production requirements: 100% documented and traceable.
+- Core player journey: specified for first five minutes and first hour.
+- Narrative: timeline, states, arcs, canon, sensitive themes, and exposition specified.
+- Accessibility: measurable requirements and user-testing plan specified.
+- Technical quality: platforms, budgets, saves, telemetry, localization, regression, load, errors, and readiness gates specified.
 - Unreal implementation: 0%.
 - Validation evidence: 0%.
 
-## Current milestone
+## Next action
 
-Documentation coverage is complete. The next work is production decision closure and Track A implementation.
-
-## Honest quality statement
-
-The repository is now comprehensively specified, but no claim about final quality, fun, balance, performance, or awards is valid until Unreal builds and playtests produce evidence.
+Create the Unreal project, implement Track A, and begin replacing documented hypotheses with evidence. Do not mark any gate passed until its evidence exists.

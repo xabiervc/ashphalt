@@ -1,41 +1,40 @@
 # Pre-implementation checklist
 
-## Product and design
+## Core product
 
-- [x] Vision, genre, player fantasy, loop, anti-pillars.
-- [x] World, campaign, cities, exploration, events, rivals, factions.
-- [x] Vehicles, driving, damage, tuning, repair, scoring, progression.
-- [x] Weather, NPCs, Authority, emergency response.
+- [x] First five minutes specified.
+- [x] First-hour learning curve specified.
+- [x] Replayability, continuation, duration, and failure recovery specified.
+- [x] Core questions traceable to tests.
 
-## Presentation and content
+## Narrative
 
-- [x] Art direction and mood.
-- [x] Audio/music specification.
-- [x] VFX specification.
-- [x] Animation specification.
-- [x] Cinematics/presentation specification.
-- [x] Voice/radio specification.
-- [x] UI/UX/accessibility/localization rules.
-- [x] Asset pipeline and metadata.
+- [x] Full campaign timeline.
+- [x] Narrative state machine.
+- [x] Character arcs.
+- [x] Canon rules.
+- [x] Sensitive-theme treatment.
+- [x] Exposition and pacing rules.
 
-## Technical and quality
+## Accessibility
 
-- [x] Unreal architecture and handoff.
-- [x] Data contracts and determinism.
-- [x] Streaming, density, metrics, prototypes.
-- [x] QA, playtesting, traceability, quality gates.
+- [x] Measurable text, contrast, subtitle, input, timing, difficulty, save, and user-testing requirements.
 
-## Open production decisions
+## Technical quality
 
-- [ ] Unreal version and target hardware.
-- [ ] Platform/frame-rate/resolution budgets.
-- [ ] Trademark clearance.
-- [ ] Rating and final content boundaries.
-- [ ] Music and voice production budget.
+- [x] Platform matrix.
+- [x] Performance and memory budgets.
+- [x] Save migration.
+- [x] Privacy telemetry.
+- [x] Localization plan.
+- [x] Regression/load testing.
+- [x] Recoverable errors.
+- [x] Vertical-slice readiness gate.
+- [x] Production-readiness gate.
 
-## Validation
+## External validation still required
 
-- [ ] Track A control prototype.
-- [ ] Q1 handling gate.
-- [ ] Q2 first playable.
-- [ ] Q3 vertical slice.
+- [ ] Build and test Unreal Track A.
+- [ ] Run user tests.
+- [ ] Measure target hardware.
+- [ ] Resolve production decisions.

@@ -2,16 +2,12 @@
 
 ## Status
 
-**100% of planned documentation domains are now covered. Production implementation and validation are not started.**
+**100% of planned pre-production requirements are documented and traceable. Implementation, playtesting, and technical validation are not started.**
 
-## Coverage
+## Newly closed documentation areas
 
-Gameplay, driving, world, campaign, narrative, characters, factions, vehicles, damage, repair, tuning, races, scoring, progression, economy, AI, NPCs, Authority, emergencies, weather, open-world streaming, audio, music, voice/radio, VFX, animation, cinematics, UI, accessibility, localization, asset pipeline, determinism, save/load, replay, QA, performance, release, and decision governance are documented.
+First five minutes, first hour, replayability, campaign timeline, narrative states, character arcs, canon, sensitive themes, exposition, accessibility requirements, platform matrix, performance/memory, save migration, privacy telemetry, localization, regression/load tests, recoverable errors, vertical-slice readiness, production readiness, and end-to-end traceability.
 
-## Important distinction
+## Honest boundary
 
-Coverage is not evidence. The project must still resolve production decisions, create the Unreal project, implement Track A, run Q1, and replace assumptions with measured results.
-
-## Current blockers
-
-Unreal implementation, target hardware, final platform budgets, audio/voice production decisions, title clearance, content-rating review, and all playtest evidence remain pending.
+Documentation completeness is not proof of quality. The next status changes require Unreal builds, metrics, playtests, accessibility tests, and signed readiness gates.
