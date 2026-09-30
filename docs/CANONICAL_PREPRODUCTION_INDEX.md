@@ -1,19 +1,27 @@
-# Canonical pre-production index
+# Canonical preproduction index
 
-## Reading order
+## Reviewer entry point
 
-1. `GDD.md` — product brief and fixed canon.
-2. `PRODUCT_SOURCE_OF_TRUTH.md` — authority and evidence rules.
-3. `PRODUCTION_SCOPE_FREEZE.md` — mandatory prototype scope and cut rules.
-4. `VERTICAL_SLICE_OPERATIONAL_PLAN.md` — exact Crown slice.
-5. `REQUIREMENT_OBLIGATION_MATRIX.md` — requirement-to-test obligations.
-6. Normative specialist documents — detailed systems/content.
-7. QA, quality, and readiness gates — evidence and sign-off.
+- [`LEVEL_A_REVIEWER_PACKET.md`](LEVEL_A_REVIEWER_PACKET.md)
 
-## Conflict rule
+## Authority and governance
 
-If documents conflict, stop implementation, record the conflict, identify affected scope, resolve it explicitly, and update the source-of-truth documents before coding.
+- [`DESIGN_CHANGE_CONTROL.md`](DESIGN_CHANGE_CONTROL.md)
+- [`MUST_FIX_BEFORE_IMPLEMENTATION.md`](MUST_FIX_BEFORE_IMPLEMENTATION.md)
+- [`PROGRESS.md`](PROGRESS.md)
 
-## Status
+## A1-A7 assessment
 
-A document is Normative, Operational, Supporting, Deferred, Experimental, or Superseded. Filename freshness and percentage claims do not determine authority.
+- [`A1_IDENTITY_ASSESSMENT.md`](A1_IDENTITY_ASSESSMENT.md)
+- [`A2_GAMEPLAY_ASSESSMENT.md`](A2_GAMEPLAY_ASSESSMENT.md)
+- [`A3_NARRATIVE_ASSESSMENT.md`](A3_NARRATIVE_ASSESSMENT.md)
+- [`A4_PRODUCTION_ASSESSMENT.md`](A4_PRODUCTION_ASSESSMENT.md)
+- [`A5_ACCESSIBILITY_ASSESSMENT.md`](A5_ACCESSIBILITY_ASSESSMENT.md)
+- [`A6_TRACEABILITY_ASSESSMENT.md`](A6_TRACEABILITY_ASSESSMENT.md)
+- [`A7_HONEST_CLOSURE_ASSESSMENT.md`](A7_HONEST_CLOSURE_ASSESSMENT.md)
+
+## Hypotheses
+
+- [`PROTOTYPE_HYPOTHESES_REGISTER.md`](PROTOTYPE_HYPOTHESES_REGISTER.md)
+
+The specialist design documents remain normative for their domain; this index makes their role and evidence boundaries visible.
