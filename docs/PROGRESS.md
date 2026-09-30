@@ -3,23 +3,14 @@
 ## Status
 
 - Pre-production specification: 100% complete.
-- Quantified catalogs: complete for prototype and vertical-slice scope.
-- Implementation-ready design coverage: 100% of planned pre-production domains.
+- Quality framework: added.
+- Award-caliber evidence: 0% until playtests and gates produce results.
 - Unreal implementation: 0%.
 
-## Completed in final pre-production pass
+## Current milestone
 
-- Event catalog with objectives, risks, rewards, and required data.
-- Permanent upgrades and consumable power-ups.
-- Named characters, vehicles, factions, and relationships.
-- Dialogue, HUD, menu, accessibility, localization, and content rules.
-- Asset specifications and completeness matrix.
-- Final status updated to distinguish documented design from tested implementation.
+The documentation now defines not only what Ashphalt is, but how quality must be demonstrated through handling tests, playtests, accessibility verification, performance budgets, narrative causality checks, and staged release gates.
 
 ## Next action
 
-Create the Unreal project and implement the first playable slice. Every numerical baseline must be measured and revised through Unreal tests and playtests.
-
-## Important distinction
-
-The design is complete. The game is not yet implemented or validated.
+Create the Unreal project and implement the vehicle-feel prototype. The first quality gate is Q1: a blind-playtestable, responsive, readable vehicle.

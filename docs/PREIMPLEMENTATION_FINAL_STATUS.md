@@ -2,27 +2,12 @@
 
 ## Status
 
-**100% of the planned pre-production specification is now documented. Production implementation is not started.**
+**100% of planned pre-production specification is documented, including an award-caliber quality framework. Production implementation and quality validation are not started.**
 
-## Completed
+## Added quality standard
 
-- Vision, scope, anti-pillars, and single-player boundary.
-- World, districts, narrative, characters, relationships, factions, and consequences.
-- Vehicle archetypes, quantified initial catalog, damage, tuning, repairs, upgrades, and power-ups.
-- Race/event catalog, scoring, combos, actions, rewards, police escalation, emergency units, NPCs, and weather balance.
-- UI, accessibility, localization, audio, visual asset requirements, and content completeness targets.
-- Unreal architecture, data contracts, determinism, roadmap, QA, traceability, release gates, and Claude implementation prompts.
+The project now has measurable gates for concept clarity, vehicle feel, first playable, vertical slice, alpha, beta, and release candidate. It also has explicit playtesting, accessibility, narrative-quality, technical-budget, UX, presentation, and risk documents.
 
-## Prototype-only values
+## Important distinction
 
-All numerical values are explicit starting hypotheses. They require implementation, instrumentation, controlled tests, and playtesting before production lock.
-
-## Remaining work is implementation validation
-
-The remaining work is no longer undefined pre-production design. It is to create the Unreal project, implement systems, produce assets, run tests, balance values, and update the documentation with evidence.
-
-## Deferred
-
-- Local multiplayer.
-- Online multiplayer.
-- Matchmaking, dedicated servers, anti-cheat, and live-service systems.
+Documentation can define the standard but cannot prove it. The project must still create the Unreal build, pass the gates, gather player evidence, and revise systems based on measured results.
