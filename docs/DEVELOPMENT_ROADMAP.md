@@ -2,28 +2,28 @@
 
 ## Milestone 0 — Documentation complete
 
-Exit: product, campaign, content, technical, QA, accessibility, quality, and release documents exist and agree.
+Exit: product, campaign, open-city, content, technical, QA, accessibility, quality, and release documents agree.
 
-## Milestone 1 — Technical vehicle prototype
+## Milestone 1 — Vehicle and traversal prototype
 
-Exit: one vehicle drives, collides, communicates damage, and passes Q1.
+Exit: one vehicle drives through an open subdistrict, navigates landmarks, collides, recovers, and passes Q1.
 
-## Milestone 2 — First playable
+## Milestone 2 — First playable open-city loop
 
-Exit: one Ash Race event and one aftermath loop pass Q2.
+Exit: one Ash Race event, one free-roam activity, workshop, rival, damage, reputation, city-state change, and consequence pass Q2.
 
 ## Milestone 3 — The Crown vertical slice
 
-Exit: the locked Crown stage passes Q3 and its campaign QA matrix.
+Exit: the locked open-world slice passes Q3, including exploration density and ten-minute continuous traversal.
 
 ## Milestone 4 — Campaign production
 
-Exit: all seven stages have blockouts, event catalogs, rival states, city-state transitions, and narrative tests.
+Exit: five cities, approximately 25 subdistricts, event/content budgets, city states, rivals, and narrative tests implemented.
 
 ## Milestone 5 — Alpha
 
-Exit: campaign systems integrated, content pipeline stable, performance/replay/save tests pass, Q4 complete.
+Exit: campaign systems integrated, content pipeline stable, performance/streaming/save/replay tests pass.
 
 ## Milestone 6 — Beta and release candidate
 
-Exit: content, accessibility, localization, platform, legal, support, and external QA pass Q5-Q6.
+Exit: content, accessibility, localization, platform, legal, support, external QA, and quality gates pass.

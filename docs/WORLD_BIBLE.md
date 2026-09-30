@@ -1,20 +1,7 @@
 # World bible
 
-## Canonical travel structure
+Ashphalt's world consists of five major fictional open cities connected by The Ash Race. Each city is divided into approximately five explorable subdistricts with its own route grammar, landmarks, hazards, faction pressure, weather profile, workshops, events, and persistent state.
 
-The world is organized as a sequence of fictional post-collapse cities and districts connected by The Ash Race. The player does not visit locations merely for scenery: each city is a stage in the competition, a faction conflict, a route decision, and a persistent Chaos Rating state.
+The cities are not merely backdrops for races. The player may leave official routes, become lost, discover alternate paths, encounter rivals, find resources, trigger events, and return to changed objectives. City-state transitions persist in saves and alter later traffic, Authority presence, route access, emergency activity, economy, and narrative.
 
-## City states
-
-- Stable.
-- Disturbed.
-- Violent.
-- Burning.
-- Collapsing.
-- Ash State.
-
-The state affects routes, traffic, Authority presence, emergency events, NPC behavior, rewards, and later narrative scenes.
-
-## The Gate
-
-The Gate is the final installation connected to The Fire Key. Its function is infrastructure control: energy routing, communications authorization, and access to surviving transport corridors. Its visual identity should be industrial and believable, not mystical.
+See `OPEN_CITY_DESIGN.md`, `CITY_SIZE_AND_DENSITY.md`, `SUBDISTRICT_CATALOG.md`, and `EXPLORATION_AND_NAVIGATION.md` for detailed scope.

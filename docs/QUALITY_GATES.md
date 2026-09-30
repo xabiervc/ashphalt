@@ -4,26 +4,18 @@
 
 Players understand Ashphalt: Aftermath, The Ash Race, Chaos Rating, The Fire Key, The Gate, and persistent city consequences.
 
-## Q1 — Vehicle feel
+## Q1 — Vehicle feel and traversal
 
-Blind playtesters control the vehicle quickly, understand impacts, and voluntarily replay the test.
+Blind playtesters control the vehicle quickly, understand impacts, can navigate the open subdistrict, and voluntarily replay the test.
 
-## Q2 — First playable
+## Q2 — First playable open-city loop
 
-One stage works end to end: preparation, race, destruction, rival pressure, workshop, reputation, city-state change, and aftermath.
+One event, free-roam activity, rival pressure, workshop, reputation, city-state change, consequence, and aftermath work end to end.
 
-## Q3 — Vertical slice
+## Q3 — Open-world vertical slice
 
-The Crown stage has distinctive art, multiple events, rival state, Authority escalation, weather, faction decision, Fire Key clue, accessibility, save/load, replay test, and polished presentation.
+The Crown slice has distinctive density, landmarks, multiple events, weather, Authority escalation, faction decision, Fire Key clue, accessibility, save/load, replay test, and polished presentation.
 
-## Q4 — Alpha
+## Q4-Q6
 
-All core systems exist, city progression and Chaos Rating persist, performance budgets are met, and campaign QA passes.
-
-## Q5 — Beta
-
-Content, accessibility, localization readiness, regression coverage, and external stage playtests are complete.
-
-## Q6 — Release candidate
-
-Platform, legal, rating, localization, performance, accessibility, stability, support, and rollback requirements are signed off.
+Alpha, beta, and release gates also require streaming stability, city-state persistence, route consistency, performance at target density, and no empty filler areas presented as finished content.

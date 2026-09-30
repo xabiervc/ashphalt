@@ -1,30 +1,5 @@
 # Vertical slice content lock
 
-## Locked slice
+The first vertical slice is an open, explorable section of The Crown. It must include continuous free-roam driving, landmarks, an official race, a discoverable shortcut, a free-roam activity, workshop upgrades, an off-route rival encounter, Authority pursuit, weather-driven route change, faction decision, persistent city-state transition, and visible aftermath.
 
-The first vertical slice is a complete Ash Race stage in The Crown.
-
-## Required content
-
-- Arrival scene and first Fire Key clue.
-- One compact district with an identifiable landmark.
-- One circuit race.
-- One Chaos Rating destruction event.
-- One rival with relationship state.
-- One Authority interceptor escalation.
-- One workshop and three upgrades.
-- One weather state with route effect.
-- One faction decision.
-- One city-state transition.
-- One consequence visible in the next event.
-- One aftermath scene.
-- Full baseline HUD and accessibility options.
-- Save/load and replay test scenario.
-
-## Out of slice
-
-Other cities beyond placeholder references, online/local multiplayer, final campaign cinematics, full crowd density, final voice acting, and live-service systems.
-
-## Lock rule
-
-Do not add new slice features until the current content passes Q1-Q3 gates or a written scope decision replaces an existing feature.
+A standalone closed track is insufficient for this gate.

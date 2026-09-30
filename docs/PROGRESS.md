@@ -3,15 +3,15 @@
 ## Status
 
 - Pre-production specification: 100% complete.
-- Ash Race campaign specification: expanded to production-level structure.
-- Vertical slice content lock: defined for The Crown.
-- Campaign QA matrix: added.
+- Open-city scale and exploration model: added.
+- Campaign target: five open cities, approximately 25 subdistricts, 50-75 structured events, 20-30 free-roam activities, 25-35 hours target.
+- Open-world vertical slice: locked for The Crown.
 - Unreal implementation: 0%.
 
 ## Current milestone
 
-The project is ready for controlled creation of the Unreal project and implementation of the Q1 vehicle-feel prototype, followed by the locked Crown vertical slice.
+The next implementation target is an open-subdistrict traversal and vehicle-feel prototype, not a standalone race track.
 
-## Next action
+## Important distinction
 
-Create the Unreal project, implement the vehicle prototype, and gather the first blind-playtest evidence. Do not expand the slice until Q1-Q3 gates are tested.
+The campaign duration and map density figures are production targets. They require profiling and playtesting; they are not promises of final hours or area size.

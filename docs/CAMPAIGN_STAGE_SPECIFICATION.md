@@ -1,5 +1,5 @@
 # Campaign stage specification
 
-Every Ash Race city stage contains arrival context, workshop preparation, a required qualifier, at least two optional events, a rival confrontation, a Chaos Rating escalation, a story decision, a persistent city-state transition, and route selection for departure.
+Each city stage is an open-world chapter, not a linear track. It includes one main event, four to six secondary races, destruction and pursuit events, convoy/delivery/rescue content, free-roam activities, workshops, rival encounters, route choices, and a persistent city-state transition.
 
-The locked first vertical slice is The Crown, as specified in `VERTICAL_SLICE_CONTENT_LOCK.md`. A stage must feel mechanically and visually distinct, provide multiple viable strategies, and preserve a fair fail-forward state.
+The stage must remain navigable through landmarks and optional guidance. The player can become lost without losing the campaign, and recovery tools must be subtle and consent-based.
