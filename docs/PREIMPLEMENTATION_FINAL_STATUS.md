@@ -1,13 +1,20 @@
 # Pre-implementation final status
 
-## Status
+## Final verdict
 
-**100% of planned pre-production requirements are documented and traceable. Implementation, playtesting, and technical validation are not started.**
+Ashphalt has complete, auditable, scope-controlled pre-production documentation and is ready for controlled prototyping. It is not authorized for full production until the Crown vertical slice passes its gates.
 
-## Newly closed documentation areas
+## Single source of truth
 
-First five minutes, first hour, replayability, campaign timeline, narrative states, character arcs, canon, sensitive themes, exposition, accessibility requirements, platform matrix, performance/memory, save migration, privacy telemetry, localization, regression/load tests, recoverable errors, vertical-slice readiness, production readiness, and end-to-end traceability.
+`PRODUCT_SOURCE_OF_TRUTH.md` is the authority for scope, canon, mandatory/aspirational content, and conflict resolution. Earlier broad documents are historical or specialist references according to `ARCHIVE_AND_SUPERSESSION_POLICY.md`.
 
-## Honest boundary
+## Current evidence state
 
-Documentation completeness is not proof of quality. The next status changes require Unreal builds, metrics, playtests, accessibility tests, and signed readiness gates.
+- Documented: 100% of planned pre-production requirements.
+- Implemented: 0%.
+- Validated: 0%.
+- Approved by quality gates: 0%.
+
+## Next milestone
+
+Resolve production decisions, create Unreal project, implement Track A, and collect Q1 evidence.

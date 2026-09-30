@@ -1,16 +1,15 @@
 # Production decision register
 
-## Decisions still required before implementation
+## Required decisions
 
-- Exact Unreal Engine version selected at project creation.
-- Primary launch platform and target hardware.
-- Target frame rate/resolution per platform.
-- Final title trademark clearance for Ashphalt: Aftermath.
-- Content rating target and final pedestrian presentation.
-- Music licensing/original composition budget.
-- Voice acting versus stylized text/audio approach.
-- Final storage and Git LFS policy for binary assets.
+| Decision | Owner | Deadline | Fallback |
+|---|---|---|---|
+| Unreal version | project owner | before project creation | latest supported stable version |
+| PC target profile | project owner | before Track A benchmark | recommended desktop profile only |
+| Resolution/FPS | project owner | before Q1 | 1080p/60 FPS target |
+| Title clearance | legal review | before public branding | rename before public release |
+| Rating/content boundaries | design + legal | before final pedestrian content | non-contact mode and stylization |
+| Audio/voice budget | production | before voice lock | text/radio-first prototype |
+| Asset storage | technical owner | before binary assets | Git LFS/approved storage |
 
-## Decision rule
-
-Each decision must record owner, options, chosen value, rationale, date, affected documents, and rollback cost. Until chosen, dependent systems remain marked assumption rather than final.
+No decision is considered closed without chosen value, rationale, affected docs, and date.
