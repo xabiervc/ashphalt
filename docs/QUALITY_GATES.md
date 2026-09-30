@@ -2,28 +2,28 @@
 
 ## Q0 — Concept clarity
 
-Pass when players understand that Ashphalt: Aftermath is a multi-city destruction race built around The Ash Race, Chaos Rating, The Fire Key, and persistent consequences.
+Players understand Ashphalt: Aftermath, The Ash Race, Chaos Rating, The Fire Key, The Gate, and persistent city consequences.
 
 ## Q1 — Vehicle feel
 
-Pass when blind playtesters can control the vehicle quickly, understand impacts, and voluntarily replay a short test.
+Blind playtesters control the vehicle quickly, understand impacts, and voluntarily replay the test.
 
 ## Q2 — First playable
 
-Pass when one Ash Race stage works end to end: preparation, race, destruction, rival pressure, workshop recovery, reputation, city-state change, and aftermath.
+One stage works end to end: preparation, race, destruction, rival pressure, workshop, reputation, city-state change, and aftermath.
 
 ## Q3 — Vertical slice
 
-Pass when one complete city stage has a distinctive identity, multiple events, NPC pilots, weather/world event, faction decision, Fire Key clue, accessibility options, and polished presentation.
+The Crown stage has distinctive art, multiple events, rival state, Authority escalation, weather, faction decision, Fire Key clue, accessibility, save/load, replay test, and polished presentation.
 
 ## Q4 — Alpha
 
-Pass when all core systems exist, city progression and Chaos Rating persist, performance budgets are met, and replay/save tests pass.
+All core systems exist, city progression and Chaos Rating persist, performance budgets are met, and campaign QA passes.
 
 ## Q5 — Beta
 
-Pass when content, accessibility, localization readiness, regression testing, and external stage playtests are complete.
+Content, accessibility, localization readiness, regression coverage, and external stage playtests are complete.
 
 ## Q6 — Release candidate
 
-Pass when platform, legal, rating, localization, performance, accessibility, stability, support, and rollback requirements are signed off.
+Platform, legal, rating, localization, performance, accessibility, stability, support, and rollback requirements are signed off.

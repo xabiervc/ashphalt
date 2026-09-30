@@ -2,28 +2,28 @@
 
 ## Milestone 0 — Documentation complete
 
-Exit: all mandatory product, design, technical, QA, accessibility, quality, and release documents exist and link correctly.
+Exit: product, campaign, content, technical, QA, accessibility, quality, and release documents exist and agree.
 
 ## Milestone 1 — Technical vehicle prototype
 
-Exit: one vehicle drives, brakes, turns, collides, resets, communicates damage, and remains stable on the test track. Gate Q1 must pass.
+Exit: one vehicle drives, collides, communicates damage, and passes Q1.
 
 ## Milestone 2 — First playable
 
-Exit: one event, rival, damage, workshop, reward, reputation change, visible consequence, accessibility baseline, and save/load work end to end. Gate Q2 must pass.
+Exit: one Ash Race event and one aftermath loop pass Q2.
 
-## Milestone 3 — Vertical slice
+## Milestone 3 — The Crown vertical slice
 
-Exit: one polished district, 3-5 vehicles, several event types, traffic, basic Authority, weather, UI, accessibility, save/load, narrative choice, audio identity, and a polished aftermath. Gate Q3 must pass.
+Exit: the locked Crown stage passes Q3 and its campaign QA matrix.
 
-## Milestone 4 — Alpha
+## Milestone 4 — Campaign production
 
-Exit: all core systems integrated, content pipeline stable, performance risks measured, determinism/replay tests running, and progression playable end to end. Gate Q4 must pass.
+Exit: all seven stages have blockouts, event catalogs, rival states, city-state transitions, and narrative tests.
 
-## Milestone 5 — Beta
+## Milestone 5 — Alpha
 
-Exit: content complete, balance pass, accessibility review, localization readiness, save migration, regression suite, and external playtests. Gate Q5 must pass.
+Exit: campaign systems integrated, content pipeline stable, performance/replay/save tests pass, Q4 complete.
 
-## Milestone 6 — Release candidate
+## Milestone 6 — Beta and release candidate
 
-Exit: platform, legal, localization, rating, performance, accessibility, stability, support, and rollback requirements signed off. Gate Q6 must pass.
+Exit: content, accessibility, localization, platform, legal, support, and external QA pass Q5-Q6.
