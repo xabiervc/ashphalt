@@ -1,19 +1,5 @@
 # QA and validation
 
-## Test layers
+Add open-world scenario testing: cell boundaries, route departure/return, landmark navigation, free-roam activity persistence, city-state persistence, traffic density, pursuit streaming, weather route changes, save/load near boundaries, and recovery after getting lost.
 
-- Unit: formulas, tiers, costs, event rules, save migration.
-- Scenario: vehicle collision, repair, pursuit, weather, route changes, faction reactions.
-- Integration: event → reward → reputation → consequence → save/load.
-- Replay: identical seed/input stream within documented tolerances.
-- Performance: benchmark map with traffic, weather, destruction, and Authority escalation.
-- Accessibility: every option enabled, persisted, and behaviorally verified.
-- Playtest: handling, readability, pacing, narrative causality, frustration, and voluntary replay.
-
-## Quality gate evidence
-
-A feature is not complete because it compiles. It must be observable, testable, documented, profiled, playtested, and reviewed against the quality gates in `QUALITY_GATES.md`.
-
-## Regression policy
-
-Every approved phase adds a test scenario. Breaking an acceptance test blocks the phase unless the change is explicitly re-approved with updated documentation and traceability.
+The open-world vertical slice must pass the tests in `PROTOTYPE_ACCEPTANCE_TESTS.md` before additional city content is authorized.
