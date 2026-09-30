@@ -1,20 +1,17 @@
 # Pre-implementation final status
 
-## Final verdict
+## Status
 
-Ashphalt has complete, auditable, scope-controlled pre-production documentation and is ready for controlled prototyping. It is not authorized for full production until the Crown vertical slice passes its gates.
+**Documented pre-production is complete and now governed by a canonical index, status labels, traceability matrix, content inventory, scope/cut rules, operational Crown slice, and sign-off template.**
 
-## Single source of truth
+## What this proves
 
-`PRODUCT_SOURCE_OF_TRUTH.md` is the authority for scope, canon, mandatory/aspirational content, and conflict resolution. Earlier broad documents are historical or specialist references according to `ARCHIVE_AND_SUPERSESSION_POLICY.md`.
+The repository now states what the player does, learns, chooses, changes, produces, and how quality is measured. It distinguishes mandatory scope from objectives, aspirations, deferred systems, and hypotheses.
 
-## Current evidence state
+## What this does not prove
 
-- Documented: 100% of planned pre-production requirements.
-- Implemented: 0%.
-- Validated: 0%.
-- Approved by quality gates: 0%.
+No documentation proves vehicle feel, fun, performance, accessibility effectiveness, narrative comprehension, or award-caliber quality. Those require implementation evidence and signed gates.
 
-## Next milestone
+## Entry condition
 
-Resolve production decisions, create Unreal project, implement Track A, and collect Q1 evidence.
+The project may enter controlled prototype development. Full production remains blocked until the operational Crown slice passes its quality gates and open risks have owners and evidence.

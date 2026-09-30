@@ -1,34 +1,21 @@
 # Ashphalt — Claude Code project instructions
 
-## Mission
+## Authority
 
-Build Ashphalt as a single-player-first post-apocalyptic arcade racing and vehicular-combat game in Unreal Engine 5.7+.
+Read `docs/CANONICAL_PREPRODUCTION_INDEX.md` first. `docs/GDD.md` defines product canon and scope. Specialist Normative documents define systems. Operational documents define the current implementation slice. Prompts never override design authority.
 
-## Non-negotiables
+## Before changes
 
-- Implement only the requested phase; do not invent unrelated features.
-- Preserve the design documents and update them when an approved decision changes.
-- Use fictional cities, manufacturers, models, logos, characters, and factions.
-- Keep the current scope single-player. Multiplayer is deferred.
-- Prefer C++ for stable core systems and performance-sensitive code; use Blueprints for iteration and content authoring.
-- Use Data Assets/Data Tables for content and tuning.
-- Use fixed-step gameplay logic, explicit update order, and named seeded random streams.
-- Include a minimal test map, acceptance criteria, debug instrumentation, and a performance check in each implementation phase.
-- Never claim cross-platform bit-exact Chaos determinism without evidence; use tolerances and document limitations.
-- Update `PROGRESS.md` after approved implementation work.
+Provide a five-line plan, files, acceptance criteria, risks, and wait for confirmation. Work only on the requested scope. Report conflicts instead of inventing resolutions.
 
-## Required response before changes
+## Status discipline
 
-Before editing files, provide exactly:
+Distinguish documented, implemented, validated, approved, deferred, superseded, and experimental. Never claim a gate passes without evidence.
 
-1. A five-line implementation plan.
-2. Files to create or modify.
-3. Acceptance criteria.
-4. Risks or assumptions.
-5. A request for confirmation.
+## Engineering rules
 
-Do not make code changes until confirmation is given.
+Use Unreal Engine 5.7+ when the project is created, C++ for stable systems, Blueprints/Data Assets for iteration, fixed-step gameplay logic, named seeded random streams, profiling, automated tests, recoverable errors, and save migration.
 
-## Documentation authority
+## Scope
 
-`docs/GDD.md` is the product-level source of truth. The specialist documents refine it. If documents conflict, stop and report the conflict instead of silently choosing.
+Single-player first. Multiplayer, live service, and final production content are deferred until the Crown vertical slice passes its gates.

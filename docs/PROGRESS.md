@@ -2,17 +2,13 @@
 
 ## Status
 
-- Pre-production coverage: 100% documented and traceable.
-- Single source of truth: established.
-- Mandatory/aspirational scope: separated.
-- First playable content: locked.
+- Documented pre-production: complete.
+- Canonical document governance: complete.
+- Narrative/content traceability: complete.
+- Operational Crown vertical slice: complete.
 - Implementation: 0%.
 - Validation: 0%.
 
 ## Current milestone
 
-Controlled prototyping is authorized. Full campaign production is not.
-
-## Next action
-
-Resolve the production decision register and build Track A. Use the quality evidence register for every result; do not mark a gate passed without evidence.
+The next step is controlled prototype implementation, beginning with Track A vehicle feel and the measured Crown slice. Full production is intentionally blocked until evidence supports it.
