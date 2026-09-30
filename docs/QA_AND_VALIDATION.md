@@ -1,5 +1,9 @@
 # QA and validation
 
-Add open-world scenario testing: cell boundaries, route departure/return, landmark navigation, free-roam activity persistence, city-state persistence, traffic density, pursuit streaming, weather route changes, save/load near boundaries, and recovery after getting lost.
+## Core gameplay validation
 
-The open-world vertical slice must pass the tests in `PROTOTYPE_ACCEPTANCE_TESTS.md` before additional city content is authorized.
+Run the three prototype tracks in sequence. Record control metrics, route/failure comprehension, progression decisions, voluntary replay, accessibility behavior, performance, and known defects.
+
+## Required evidence
+
+No Q1/Q2 pass is valid from developer intuition alone. Include test build ID, hardware, participant profile, scenario seed, observed metrics, failure taxonomy, player comments, and decision taken.

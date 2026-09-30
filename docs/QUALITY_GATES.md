@@ -2,20 +2,20 @@
 
 ## Q0 — Concept clarity
 
-Players understand Ashphalt: Aftermath, The Ash Race, Chaos Rating, The Fire Key, The Gate, and persistent city consequences.
+Players understand the player fantasy, exact genre, Ash Race, Chaos Rating, Fire Key, open-city structure, and consequence promise.
 
 ## Q1 — Vehicle feel and traversal
 
-Blind playtesters control the vehicle quickly, understand impacts, can navigate the open subdistrict, and voluntarily replay the test.
+Blind playtesters control the vehicle quickly, understand impacts, can navigate the metric map, and voluntarily replay the test. Initial target metrics are documented but must be validated.
 
-## Q2 — First playable open-city loop
+## Q2 — First playable clarity
 
-One event, free-roam activity, rival pressure, workshop, reputation, city-state change, consequence, and aftermath work end to end.
+Players understand objective, route, threat, damage, workshop, upgrade trade-off, score, and one consequence without coaching.
 
 ## Q3 — Open-world vertical slice
 
-The Crown slice has distinctive density, landmarks, multiple events, weather, Authority escalation, faction decision, Fire Key clue, accessibility, save/load, replay test, and polished presentation.
+The Crown demonstrates density, landmarks, multiple routes, NPC rivals, Authority escalation, weather, faction choice, persistent city state, accessibility, save/load, replay, and a polished presentation.
 
 ## Q4-Q6
 
-Alpha, beta, and release gates also require streaming stability, city-state persistence, route consistency, performance at target density, and no empty filler areas presented as finished content.
+Alpha, beta, and release gates require campaign persistence, performance budgets, replay/save reliability, accessibility, content quality, external playtests, and no systemic confusion.

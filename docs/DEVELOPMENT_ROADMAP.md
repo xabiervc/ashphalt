@@ -1,29 +1,25 @@
 # Development roadmap
 
-## Milestone 0 — Documentation complete
+## Milestone 0 — Measurable pre-production
 
-Exit: product, campaign, open-city, content, technical, QA, accessibility, quality, and release documents agree.
+Exit: core fantasy, genre, loop, controls, camera, collisions, challenge, progression, differentiation, metrics, three prototype tracks, and traceability are documented.
 
-## Milestone 1 — Vehicle and traversal prototype
+## Milestone 1 — Track A control prototype
 
-Exit: one vehicle drives through an open subdistrict, navigates landmarks, collides, recovers, and passes Q1.
+Exit: vehicle feel metrics and blind tests support Q1.
 
-## Milestone 2 — First playable open-city loop
+## Milestone 2 — Track B challenge prototype
 
-Exit: one Ash Race event, one free-roam activity, workshop, rival, damage, reputation, city-state change, and consequence pass Q2.
+Exit: open Crown route, shortcut, landmark, rival, Authority, weather, and failure readability support Q2.
 
-## Milestone 3 — The Crown vertical slice
+## Milestone 3 — Track C progression prototype
 
-Exit: the locked open-world slice passes Q3, including exploration density and ten-minute continuous traversal.
+Exit: upgrades change decisions and combine with the first playable loop.
 
-## Milestone 4 — Campaign production
+## Milestone 4 — Crown vertical slice
 
-Exit: five cities, approximately 25 subdistricts, event/content budgets, city states, rivals, and narrative tests implemented.
+Exit: open-world slice passes Q3.
 
-## Milestone 5 — Alpha
+## Milestone 5 — Campaign production
 
-Exit: campaign systems integrated, content pipeline stable, performance/streaming/save/replay tests pass.
-
-## Milestone 6 — Beta and release candidate
-
-Exit: content, accessibility, localization, platform, legal, support, external QA, and quality gates pass.
+Exit: five cities, event budgets, rivals, city states, and narrative tests implemented.
