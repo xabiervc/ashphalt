@@ -1,5 +1,9 @@
 # Canonical preproduction index
 
+## Freeze status
+
+The documented Level-A baseline was frozen on 2026-09-30. See [`PREIMPLEMENTATION_FREEZE_2026-09-30.md`](PREIMPLEMENTATION_FREEZE_2026-09-30.md) and [`FINAL_PREIMPLEMENTATION_AUDIT.md`](FINAL_PREIMPLEMENTATION_AUDIT.md).
+
 ## Reviewer entry point
 
 - [`LEVEL_A_REVIEWER_PACKET.md`](LEVEL_A_REVIEWER_PACKET.md)
@@ -8,6 +12,7 @@
 
 - [`DESIGN_CHANGE_CONTROL.md`](DESIGN_CHANGE_CONTROL.md)
 - [`MUST_FIX_BEFORE_IMPLEMENTATION.md`](MUST_FIX_BEFORE_IMPLEMENTATION.md)
+- [`IMPLEMENTATION_SCOPE_AND_CUT_RULES.md`](IMPLEMENTATION_SCOPE_AND_CUT_RULES.md)
 - [`PROGRESS.md`](PROGRESS.md)
 
 ## A1-A7 assessment
@@ -20,8 +25,12 @@
 - [`A6_TRACEABILITY_ASSESSMENT.md`](A6_TRACEABILITY_ASSESSMENT.md)
 - [`A7_HONEST_CLOSURE_ASSESSMENT.md`](A7_HONEST_CLOSURE_ASSESSMENT.md)
 
-## Hypotheses
+## Prototype and evidence
 
+- [`PROTOTYPE_TRANCHE_SCOPE.md`](PROTOTYPE_TRANCHE_SCOPE.md)
 - [`PROTOTYPE_HYPOTHESES_REGISTER.md`](PROTOTYPE_HYPOTHESES_REGISTER.md)
+- [`PROTOTYPE_ACCEPTANCE_TESTS.md`](PROTOTYPE_ACCEPTANCE_TESTS.md)
+- [`QUALITY_EVIDENCE_REGISTER.md`](QUALITY_EVIDENCE_REGISTER.md)
+- [`OPEN_RISKS_OWNERSHIP.md`](OPEN_RISKS_OWNERSHIP.md)
 
-The specialist design documents remain normative for their domain; this index makes their role and evidence boundaries visible.
+The specialist design documents remain normative for their domain. The freeze document controls the transition from documentation to implementation.

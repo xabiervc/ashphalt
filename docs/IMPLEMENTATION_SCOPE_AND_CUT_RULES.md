@@ -1,17 +1,26 @@
 # Implementation scope and cut rules
 
-## Mandatory for first playable
+## Frozen first tranche
 
-Vehicle control, open subdistrict traversal, one rival, one Authority response, damage, workshop, one race, one free-roam activity, one upgrade trade-off, one faction consequence, city-state persistence, baseline accessibility, save/load, debug commands, and performance instrumentation.
+The first tranche is Track A vehicle control and the metric test map. It is not the full open-world, campaign, traffic, police, economy, or seasonal game.
 
-## Objectives for vertical slice
+## Promotion order
 
-Polished The Crown art blockout, three events, one weather change, four-character presence, audio/VFX/animation placeholders, narrative aftermath, replay scenario, and external playtest evidence.
+1. Control and camera.
+2. Readability and recoverable failure.
+3. One representative route/challenge.
+4. Progression decision proof.
+5. Crown vertical slice.
+6. Broader world and content only after evidence.
 
-## Aspirational
+## Cut order if scope or evidence fails
 
-Full voice acting, final music album, all five cities, extensive crowd density, cinematic campaign polish, local multiplayer, online multiplayer, and live-service features.
+1. Optional activities and cosmetic breadth.
+2. Seasonal and free-roam expansion.
+3. Additional districts and route variants.
+4. Secondary factions, rivals, and systemic layers.
+5. Any feature that does not strengthen the core driving-risk-consequence loop.
 
-## Cut/deferral rules
+## Rule
 
-Cut filler events before cutting accessibility, performance, readability, save reliability, core control, or meaningful consequences. Prefer depth in The Crown over additional cities before Q3.
+Do not add breadth to compensate for an unproven core loop. A failed hypothesis triggers revision or a cut, not automatic feature growth.

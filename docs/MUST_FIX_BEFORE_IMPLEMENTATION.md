@@ -2,9 +2,14 @@
 
 ## Structural blockers
 
-**None identified for beginning controlled prototype implementation.**
+**None identified for beginning controlled Track-A prototype implementation.**
 
-This statement means the repository contains enough definition to start the first implementation tranche. It does not mean the game is validated or production-approved.
+## Conditions of the first tranche
+
+- Use the canonical index and frozen scope.
+- Record every structural change through design change control.
+- Keep Track B/C and open-world expansion out of the first tranche.
+- Attach build ID, commit, metrics, and decision log to promotion decisions.
 
 ## Required before vertical-slice lock
 
@@ -20,3 +25,5 @@ This statement means the repository contains enough definition to start the firs
 - Pass save/load, regression, accessibility, narrative comprehension, and performance checks.
 - Pass repeatability with a second event.
 - Sign off budget, schedule, legal/rating, and owned risks.
+
+No item above is silently treated as already passed.
