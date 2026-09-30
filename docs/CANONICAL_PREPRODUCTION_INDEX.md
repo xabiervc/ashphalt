@@ -1,29 +1,19 @@
 # Canonical pre-production index
 
-## Authority model
+## Reading order
 
-This document defines document hierarchy. It prevents multiple files with "final" wording from silently contradicting one another.
+1. `GDD.md` — product brief and fixed canon.
+2. `PRODUCT_SOURCE_OF_TRUTH.md` — authority and evidence rules.
+3. `PRODUCTION_SCOPE_FREEZE.md` — mandatory prototype scope and cut rules.
+4. `VERTICAL_SLICE_OPERATIONAL_PLAN.md` — exact Crown slice.
+5. `REQUIREMENT_OBLIGATION_MATRIX.md` — requirement-to-test obligations.
+6. Normative specialist documents — detailed systems/content.
+7. QA, quality, and readiness gates — evidence and sign-off.
 
-## Normative hierarchy
+## Conflict rule
 
-1. `GDD.md` — product brief, fixed canon, pillars, scope, and high-level promise.
-2. Specialist design documents — system rules and content definitions.
-3. Data contracts — serialization and implementation shape.
-4. Quality/QA documents — measurable acceptance and evidence.
-5. Prompts and handoff documents — execution instructions, never new design authority.
+If documents conflict, stop implementation, record the conflict, identify affected scope, resolve it explicitly, and update the source-of-truth documents before coding.
 
-If two documents conflict, the higher-level document wins only after the conflict is logged and resolved. Claude must stop and report unresolved conflicts.
+## Status
 
-## Normative specialist documents
-
-- Core: `CORE_GAMEPLAY_SPECIFICATION.md`, `DRIVING_CONTROL_MODEL.md`, `VEHICLE_FEEL_METRICS.md`.
-- World: `OPEN_CITY_DESIGN.md`, `CITY_SIZE_AND_DENSITY.md`, `CITY_STATE_MACHINE.md`.
-- Campaign: `THE_ASH_RACE_CAMPAIGN.md`, `CAMPAIGN_STAGE_SPECIFICATION.md`, `CAMPAIGN_TIMELINE.md`.
-- Narrative: `NARRATIVE_STATE_MACHINE.md`, `CHARACTER_ARCS.md`, `CANON_RULES.md`, `NARRATIVE_DATA_CONTRACTS.md`.
-- Content: `CONTENT_INVENTORY_MATRIX.md`, `VERTICAL_SLICE_OPERATIONAL_PLAN.md`.
-- Technical: `TECHNICAL_ARCHITECTURE.md`, `DATA_CONTRACTS.md`, `DETERMINISM_SPECIFICATION.md`.
-- Quality: `QUALITY_GATES.md`, `QA_AND_VALIDATION.md`, `VERTICAL_SLICE_READINESS_GATE.md`, `PRODUCTION_READINESS_GATE.md`.
-
-## Status rule
-
-Every document has a status: Normative, Supporting, Operational, Deferred, Superseded, or Experimental. Only Normative and Operational documents may define implementation requirements.
+A document is Normative, Operational, Supporting, Deferred, Experimental, or Superseded. Filename freshness and percentage claims do not determine authority.

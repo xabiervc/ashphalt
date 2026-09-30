@@ -1,39 +1,29 @@
-# Final pre-production checklist
+# Pre-production final checklist
 
-## Design answers
+## Level-A documentary closure
 
-- [x] First five minutes are specified.
-- [x] First hour teaches a skill and a differentiating decision.
-- [x] Replayability and continuation are specified.
-- [x] Duration target has a rationale.
-- [x] Core loop, controls, camera, collisions, routes, progression, rewards, and recovery are measurable.
-
-## Narrative answers
-
-- [x] Campaign arc, timeline, states, character arcs, relationships, canon, sensitive themes, and exposition are specified.
-- [x] Decisions link to variables, scenes, consequences, and tests.
-
-## Production answers
-
-- [x] Mandatory versus aspirational content is separated.
-- [x] First playable content is locked.
-- [x] Content matrix and traceability exist.
-- [x] Audio, VFX, animation, cinematics, voice, localization, and asset pipeline are covered.
-
-## Quality answers
-
-- [x] Accessibility has measurable requirements and user tests.
-- [x] Platform/performance/memory budgets are defined.
-- [x] Save migration/privacy telemetry/errors/localization/regression/load tests are defined.
-- [x] Vertical-slice and production-readiness gates exist.
+- [x] Product canon frozen.
+- [x] Canonical document hierarchy declared.
+- [x] Historical/superseded document policy declared.
+- [x] Mandatory prototype scope frozen.
+- [x] Requirement obligation matrix complete.
+- [x] Narrative traceability complete.
+- [x] Vertical slice operational plan complete.
+- [x] Content inventory complete.
+- [x] Accessibility requirements measurable.
+- [x] Audio/VFX/animation/presentation requirements present.
+- [x] Technical risks and assumptions recorded.
+- [x] Decision owners/defaults recorded.
+- [x] Cut/defer rules recorded.
+- [x] Prototype and production readiness gates defined.
 
 ## Evidence still required
 
-- [ ] Unreal build.
-- [ ] Q1 control evidence.
-- [ ] Q2 first-playable evidence.
-- [ ] Q3 vertical-slice evidence.
-
-## Verdict
-
-Pre-production is ready for controlled prototyping, not for unbounded full production.
+- [ ] Unreal project and build.
+- [ ] Track A control results.
+- [ ] Track B challenge results.
+- [ ] Track C progression results.
+- [ ] External playtest reports.
+- [ ] Target hardware benchmarks.
+- [ ] Accessibility user tests.
+- [ ] Signed Q1-Q3 gates.

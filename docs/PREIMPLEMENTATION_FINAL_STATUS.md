@@ -1,17 +1,15 @@
 # Pre-implementation final status
 
-## Status
+## Final classification
 
-**Documented pre-production is complete and now governed by a canonical index, status labels, traceability matrix, content inventory, scope/cut rules, operational Crown slice, and sign-off template.**
+**Level A for controlled prototype implementation.**
 
-## What this proves
+The repository has complete documented scope, canonical authority, obligation tracing, operational Crown content, cut rules, risks, and readiness criteria. The team can begin Track A without resolving fundamental product or structural questions on the fly.
 
-The repository now states what the player does, learns, chooses, changes, produces, and how quality is measured. It distinguishes mandatory scope from objectives, aspirations, deferred systems, and hypotheses.
+## Not claimed
 
-## What this does not prove
+This is not full-production approval, playable validation, performance proof, accessibility proof, balance proof, or award evidence.
 
-No documentation proves vehicle feel, fun, performance, accessibility effectiveness, narrative comprehension, or award-caliber quality. Those require implementation evidence and signed gates.
+## Exit from prototype
 
-## Entry condition
-
-The project may enter controlled prototype development. Full production remains blocked until the operational Crown slice passes its quality gates and open risks have owners and evidence.
+Full production remains blocked until Track A/Q1, Track B/Q2, and the Crown/Q3 gates produce recorded evidence and open risks receive decisions.
