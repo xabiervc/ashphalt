@@ -1,22 +1,16 @@
 # Characters and relationships
 
-## Core cast
+The core cast participates in The Ash Race and reacts to the player's Chaos Rating, city damage, faction standing, and stage decisions.
 
-| Character | Faction | Vehicle | Role | Relationship arc |
-|---|---|---|---|---|
-| Mara Venn | Settlements/bridge | Orison Boxcar | mechanic | mentor, then ideological challenger |
-| Marshal Dorne | Authority | command interceptor | commander | pursuer, negotiator, final opposition |
-| Ivo Krail | Underworld | Graven Mule | broker | supplier, creditor, possible betrayer |
-| Sera Quill | Circuit | Sable Comet | champion | rival, benchmark, alliance option |
-| Niko Vale | neutral | Kestrel Flicker | information runner | route and event guide |
-| Edda Rusk | Settlements | utility hauler | convoy coordinator | protection contracts |
-| Bram Hex | Underworld | Vandal Rook | enforcer | ambush rival |
-| Lio Ash | Circuit | custom runner | showman rival | spectacle and reputation rival |
+| Character | Faction | Role | Relationship turn |
+|---|---|---|---|
+| Mara Venn | Settlements/bridge | mechanic | mentor or ideological challenger |
+| Marshal Dorne | Authority | commander | pursuer, negotiator, or final opponent |
+| Ivo Krail | Underworld | broker | supplier, creditor, or betrayer |
+| Sera Quill | Circuit | champion | rival, mentor, or alliance option |
+| Niko Vale | neutral | route scout | information trader and opportunist |
+| Edda Rusk | Settlements | convoy coordinator | protector or disappointed ally |
+| Bram Hex | Underworld | enforcer | recurring ambush rival |
+| Lio Ash | Circuit | showman rival | spectacle and fame competitor |
 
-## Relationship rules
-
-Relationships are not a separate hidden morality score. They reflect faction standing, completed contracts, betrayals, rescues, and major decisions. Each relationship has trust, debt, fear, respect, and availability tags where needed.
-
-## Required authored content
-
-Each character needs introduction, three escalation scenes, one optional contract, one conflict scene, one decision interaction, one failure response, one exit state, and one ending contribution.
+Each character must appear in at least one stage event and have a state change driven by a recorded player action.

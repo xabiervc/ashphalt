@@ -1,28 +1,20 @@
 # World bible
 
-## Premise
+## Canonical travel structure
 
-A chain of infrastructure failures, environmental disasters, and political fragmentation has isolated several urban districts. The old state still exists in fragments, but no authority controls the whole road network. Racing became transport, entertainment, commerce, intimidation, and a way to negotiate power.
+The world is organized as a sequence of fictional post-collapse cities and districts connected by The Ash Race. The player does not visit locations merely for scenery: each city is a stage in the competition, a faction conflict, a route decision, and a persistent Chaos Rating state.
 
-## Visual identity
+## City states
 
-The world is damaged but not uniformly dead. Use contrast: functioning workshops beside flooded streets, neon scavenged from old signage, improvised bridges, clean faction compounds, ash-covered boulevards, and overgrown service roads.
+- Stable.
+- Disturbed.
+- Violent.
+- Burning.
+- Collapsing.
+- Ash State.
 
-## District archetypes
+The state affects routes, traffic, Authority presence, emergency events, NPC behavior, rewards, and later narrative scenes.
 
-- **The Crown:** dense vertical downtown with blocked avenues, rooftops, tunnels, and Authority checkpoints.
-- **The Works:** industrial docks and factories with heavy vehicles, cranes, containers, and toxic runoff.
-- **The Verge:** suburban sprawl with long sightlines, abandoned homes, shortcut alleys, and settlement patrols.
-- **The Salt Run:** desert-edge highways and dry riverbeds where sandstorms and off-road handling dominate.
-- **The Lowlands:** flooded streets and unstable infrastructure where weather can reshape routes.
+## The Gate
 
-These are fictional regions, not representations of real cities.
-
-## World rules
-
-- Roads are valuable infrastructure.
-- Vehicle parts are currency.
-- Factions protect different kinds of access.
-- Emergency services are scarce but politically important.
-- Public spectacle can be power.
-- Every major district contains a race loop, workshop, faction space, shortcut network, and emergency response space.
+The Gate is the final installation connected to The Fire Key. Its function is infrastructure control: energy routing, communications authorization, and access to surviving transport corridors. Its visual identity should be industrial and believable, not mystical.

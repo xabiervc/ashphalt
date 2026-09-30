@@ -1,28 +1,21 @@
 # Narrative bible
 
+## Title and canon
+
+The game is **Ashphalt: Aftermath**. Its central competition is **The Ash Race**, and its central technology is **The Fire Key**, an old-world authorization core capable of restarting or controlling the last energy and communication corridors. The final installation is **The Gate**.
+
 ## Premise
 
-A rising driver enters The Circuit to earn a place, a vehicle, and access to the roads beyond their settlement. Success draws attention from The Authority, The Underworld, and communities that need protection. The player must decide whether racing is a path to freedom, profit, order, or control.
+A rising driver enters The Ash Race, a continent-spanning competition through isolated post-collapse cities. Drivers pursue fame, money, revenge, survival, and the pleasure of spectacle. The race's stages leave measurable damage behind, and the player's choices determine whether a city remains usable, becomes hostile, or reaches Ash State.
 
-## Protagonist
+## Player agency
 
-The protagonist is intentionally lightly defined: a capable driver with a personal vehicle, a debt or obligation, and enough independence for the player to establish their reputation. The game should support player projection without removing authored relationships.
+The player may become a speed-focused champion, a destructive celebrity, a faction operative, a reluctant protector, an opportunist, or a coalition builder. Reputation and Chaos Rating are separate: the player can cause enormous chaos while still protecting one faction, or act carefully while betraying allies.
 
 ## Structure
 
-- **Act I — Entry:** establish the vehicle, workshop, first district, and four factions.
-- **Act II — Escalation:** races become faction contracts; repairs, access, and patrols respond to player behavior.
-- **Act III — Alignment:** major decisions determine which infrastructure and people the player protects or exploits.
-- **Act IV — Aftermath:** the reputation pattern and decisive choices produce one of several endings.
+Use `THE_ASH_RACE_CAMPAIGN.md`, `TRAVEL_AND_ROUTE_SYSTEM.md`, `CAMPAIGN_STAGE_SPECIFICATION.md`, and `NARRATIVE_CONSEQUENCE_MATRIX.md` as the detailed campaign authority.
 
-## Decision rules
+## Quality requirements
 
-Use 2-3 major decisions per act at most. Each decision must have an immediate consequence, a delayed consequence, and a visible system effect. Do not branch every dialogue line.
-
-## Tone
-
-Dark, satirical, energetic, and occasionally absurd. Avoid realistic depictions of actual disasters or identifiable real-world targets. The world should feel like a fictional catastrophe designed for an arcade game.
-
-## Endings
-
-Possible outcome families include Authority-controlled stability, Underworld freedom-through-exploitation, Settlement reconstruction, Circuit celebrity rule, negotiated coalition, and collapse caused by opportunism. Endings are determined by faction reputation plus recorded mega-decisions, not by one hidden morality value.
+Every act must contain a distinctive set piece, a mechanically visible consequence, a rival relationship turn, and a recovery path after failure. Story must pass the narrative-quality framework and playtest gates.
