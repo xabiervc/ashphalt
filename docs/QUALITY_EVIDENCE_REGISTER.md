@@ -4,18 +4,17 @@
 
 No evidence entry may be marked passed without build ID, commit, scenario, hardware/user profile, expected result, observed result, owner, date, and linked decision.
 
-## Initial entries
+## Current status
 
-| Gate | Status | Evidence |
-|---|---|---|
-| Q0 concept clarity | documented only | none yet |
-| Q1 vehicle feel | not started | none yet |
-| Q2 first playable | not started | none yet |
-| Q3 Crown slice | not started | none yet |
-| Accessibility | documented only | none yet |
-| Performance | documented only | none yet |
-| Narrative comprehension | documented only | none yet |
-
-## Evidence states
-
-Planned, collected, failed, passed with risk, passed, superseded. Documentation is not a substitute for collected evidence.
+| Gate | Status |
+|---|---|
+| Documented pre-production | passed |
+| Q0 concept clarity | documented; validation pending |
+| Q1 vehicle feel | not started |
+| Q2 first playable | not started |
+| Q3 Crown slice | not started |
+| Accessibility | documented; user validation pending |
+| Performance | documented; benchmark pending |
+| Narrative comprehension | documented; user validation pending |
+| Repeatability | not started |
+| Production approval | blocked pending evidence |

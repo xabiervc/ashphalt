@@ -2,20 +2,20 @@
 
 ## Q0 — Concept clarity
 
-Players understand the player fantasy, exact genre, Ash Race, Chaos Rating, Fire Key, open-city structure, and consequence promise.
+Documented now; validate with blind players who can explain the fantasy, loop, route choice, Chaos Rating, and consequence.
 
-## Q1 — Vehicle feel and traversal
+## Q1 — Vehicle feel
 
-Blind playtesters control the vehicle quickly, understand impacts, can navigate the metric map, and voluntarily replay the test. Initial target metrics are documented but must be validated.
+Pass only with Track A metrics, blind playtest evidence, readable failures, and stable physics.
 
-## Q2 — First playable clarity
+## Q2 — First playable
 
-Players understand objective, route, threat, damage, workshop, upgrade trade-off, score, and one consequence without coaching.
+Pass only with Track B/C evidence: objective, route, damage, workshop, upgrade trade-off, rival, Authority, and consequence understood without coaching.
 
-## Q3 — Open-world vertical slice
+## Q3 — Crown vertical slice
 
-The Crown demonstrates density, landmarks, multiple routes, NPC rivals, Authority escalation, weather, faction choice, persistent city state, accessibility, save/load, replay, and a polished presentation.
+Pass only with representative presentation, accessibility, save/load, streaming, narrative, audio/VFX, performance, regression, and external playtest evidence.
 
-## Q4-Q6
+## Q4 — Production approval
 
-Alpha, beta, and release gates require campaign persistence, performance budgets, replay/save reliability, accessibility, content quality, external playtests, and no systemic confusion.
+Pass only after repeatability, owned risks, budget/schedule confidence, legal/rating decisions, and a signed production plan.
